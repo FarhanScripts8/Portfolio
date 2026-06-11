@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+
+# Note: package-lock.json is tracked for reproducible builds
+
+# Backup files
+*.backup
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor directories
+.vscode/
+.idea/
+
+# Build outputs (if any)
+dist/
+build/
+
+# Environment files
+.env
+.env.local
+.env.*.local
