@@ -1,0 +1,23 @@
+{
+  "name": "primary",
+  "version": "1.0.0",
+  "description": "A modern, responsive, and high-performance single-page portfolio website designed to showcase my engineering projects, frontend expertise, and technical skill set. Featuring an adaptive dark/light theme engine and an automated dual-channel contact funnel.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FarhanScripts8/Portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FarhanScripts8/Portfolio/issues"
+  },
+  "homepage": "https://github.com/FarhanScripts8/Portfolio#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
